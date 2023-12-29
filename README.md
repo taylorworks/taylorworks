@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @taylorworks
-- 👀 I’m interested in health data, patient advocacy, and social justice.
-- 🌱 I’m currently learning Python. 
-- 💞️ I’m looking to collaborate on health data projects.
+- Hi, I’m @taylorworks. I’m interested in health data, patient advocacy, and social justice. I’m currently learning Python. I’m looking to collaborate on health data projects.
 
 
 <!---
